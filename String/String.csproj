@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>String.Employee2</StartupObject>
+    <StartupObject>String.String_Assignment.ReverseDemo</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,20 +46,70 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Array Lab Assignment\AlternateElement.cs" />
+    <Compile Include="Array Lab Assignment\NumberSearchDemo.cs" />
+    <Compile Include="Array Lab Assignment\OddPosition.cs" />
+    <Compile Include="Array Lab Assignment\PrimeElement.cs" />
+    <Compile Include="Array Lab Assignment\SumOfEven.cs" />
+    <Compile Include="Array Test Code Questions\MaxCharDemo.cs" />
+    <Compile Include="Array Test Code Questions\PrimeDemo.cs" />
+    <Compile Include="Array Test Code Questions\Vowel.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="Employee2.cs" />
+    <Compile Include="Genereic Collection Programs\DictionaryDemo.cs" />
+    <Compile Include="Genereic Collection Programs\HashsetDemo.cs" />
+    <Compile Include="Genereic Collection Programs\HashsetDemo2.cs" />
+    <Compile Include="Genereic Collection Programs\ListDemo.cs" />
+    <Compile Include="Genereic Collection Programs\QueueDemo.cs" />
+    <Compile Include="Genereic Collection Programs\StackDemo.cs" />
+    <Compile Include="Generic ,array,string Collection Assignment\Array5IntDemo.cs" />
+    <Compile Include="Generic ,array,string Collection Assignment\JaggedDemo.cs" />
+    <Compile Include="Generic ,array,string Collection Assignment\MatrixDemo.cs" />
+    <Compile Include="Generic ,array,string Collection Assignment\StudentAscendingDemo.cs" />
+    <Compile Include="Generic Interface\IComaprableDemo.cs" />
+    <Compile Include="Hastable Programs\HashtableDemo.cs" />
+    <Compile Include="Hastable Programs\QueueDemo.cs" />
+    <Compile Include="Hastable Programs\SortedListDemo.cs" />
+    <Compile Include="Interface Programs\IComparableDemo.cs" />
+    <Compile Include="Interface Programs\IEnumerableDemo.cs" />
+    <Compile Include="Lab assignment of generic collection\DuplicateDemo.cs" />
+    <Compile Include="Lab assignment of generic collection\FrequencyDemo.cs" />
+    <Compile Include="Lab assignment of generic collection\ListDemo.cs" />
+    <Compile Include="Non-Generic Methods in Array List\Add Demo.cs" />
+    <Compile Include="Non-Generic Methods in Array List\AddRangeDemo.cs" />
+    <Compile Include="Non-Generic Methods in Array List\ClearDemo.cs" />
+    <Compile Include="Non-Generic Methods in Array List\CountDemo.cs" />
+    <Compile Include="Non-Generic Methods in Array List\InsertDemo.cs" />
+    <Compile Include="Non-Generic Methods in Array List\RemoveAtDEmo.cs" />
+    <Compile Include="Non-Generic Methods in Array List\RemoveDemo.cs" />
+    <Compile Include="Non-Generic Methods in Array List\ReverseDemo.cs" />
+    <Compile Include="Non-Generic Methods in Array List\SortDemo.cs" />
+    <Compile Include="Non-Generic Methods in Array List\StackPeekDemo.cs" />
     <Compile Include="NullDemo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReverseStringDemo.cs" />
+    <Compile Include="String Assignment\AnagramDemo.cs" />
     <Compile Include="String Assignment\Count.cs" />
     <Compile Include="String Assignment\CountTotalNo.cs" />
+    <Compile Include="String Assignment\DuplicateDemo.cs" />
+    <Compile Include="String Assignment\LongestWordDemo.cs" />
     <Compile Include="String Assignment\Occurence.cs" />
+    <Compile Include="String Assignment\RemoveAllOccurence.cs" />
+    <Compile Include="String Assignment\ReverseDemo.cs" />
+    <Compile Include="String Assignment\ReverseStringDemo.cs" />
     <Compile Include="String Assignment\SplitHelloWorld.cs" />
+    <Compile Include="String Assignment\ToggleDemo.cs" />
+    <Compile Include="String Assignment\TotalNumberAlphaDigits.cs" />
     <Compile Include="String Assignment\Trim.cs" />
+    <Compile Include="String Assignment\VowelDemo.cs" />
+    <Compile Include="String Builder Programs\String Builder Demo.cs" />
+    <Compile Include="String Builder Programs\String Builder Method Demo.cs" />
     <Compile Include="StringDemo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Non-Generic Methods in Array List\.editorconfig" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
